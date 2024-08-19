@@ -6,7 +6,8 @@
 **Table of Contents**
 
 * Introduction to NLP
-* Text Preprocessing - Tokenization & Normalization
+* Tokenization
+* Lemmatization & 
 * Text Representations
 * POS Tagging
 * Named Entity Recognition
